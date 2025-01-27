@@ -1,4 +1,4 @@
-+Here's a revised version of the README file with different phrasing:  
+
 
 ---
 
